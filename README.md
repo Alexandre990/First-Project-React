@@ -13,7 +13,7 @@ Projeto desenvolvido no DevClub com tecnologias Front-end e Back-end.
 <br>
 
 <p align="center">
-  <img alt="Home- and-Page" src="colocar a imagem" width="100%">
+  <img alt="Home- and-Page" src="https://github.com/Alexandre990/Front-end/blob/master/src/assets/Notebook.png?raw=true" width="100%">
 </p>
 
 ## 🚀 Tecnologias
