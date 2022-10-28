@@ -36,5 +36,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Você pode visualizar o layout do projeto [clicando aqui](https://www.figma.com/file/DRrcPs2g302ShcGAkhGroK/Templates-(For-Figma)?node-id=0%3A1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ---
-
-Desenvolvedor by Alexandre
+<br>
+<p align="center"> Desenvolvedor by Alexandre </p>
